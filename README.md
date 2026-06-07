@@ -109,6 +109,17 @@ Customer_Churn_Prediction_Using_ML.ipynb
 - SMOTE improved handling of imbalanced data
 
 ---
+## Project Screenshots
+
+### Correlation Heatmap
+![Correlation Heatmap](images/churn_heatmap.png)
+
+### Box Plot Analysis
+![Box Plot](images/boxplot.png)
+
+### Customer Churn Distribution
+![Count Plot](images/countplot.png)
+
 
 ## Future Improvements
 - Hyperparameter tuning
