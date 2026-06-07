@@ -108,18 +108,16 @@ Customer_Churn_Prediction_Using_ML.ipynb
 - Random Forest achieved strong performance
 - SMOTE improved handling of imbalanced data
 
----
 ## Project Screenshots
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/churn_heatmap.png)
+![Correlation Heatmap](heatmap.png)
 
 ### Box Plot Analysis
-![Box Plot](images/boxplot.png)
+![Box Plot](boxplot.png)
 
 ### Customer Churn Distribution
-![Count Plot](images/countplot.png)
-
+![Count Plot](churn.png)
 
 ## Future Improvements
 - Hyperparameter tuning
